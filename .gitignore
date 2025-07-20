@@ -1,0 +1,6 @@
+# .gitignore
+models/
+__pycache__/
+*.ckpt
+*.safetensors
+*.psd
