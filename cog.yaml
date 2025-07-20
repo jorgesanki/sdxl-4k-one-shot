@@ -4,6 +4,3 @@ build:
   python_packages: ["-r requirements.txt"]
 
 predict: "predict.py:Predictor"
-
-gpu_idle_timeout: 1800    # apaga contenedor tras 30 min sin uso
-predict_timeout: 1200
