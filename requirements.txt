@@ -1,5 +1,5 @@
 torch==2.7.1+cu128
-diffusers
+diffusers==0.34.0
 transformers
 accelerate
 safetensors
@@ -7,4 +7,3 @@ pillow
 xformers
 protobuf
 sentencepiece
-huggingface_hub
