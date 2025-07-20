@@ -1,8 +1,10 @@
---extra-index-url https://download.pytorch.org/whl/cu128
-torch
+torch==2.7.1+cu128
 diffusers
 transformers
 accelerate
-huggingface_hub
 safetensors
 pillow
+xformers
+protobuf
+sentencepiece
+huggingface_hub
